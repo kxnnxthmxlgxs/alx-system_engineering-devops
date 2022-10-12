@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 diff set.sorted printenv.sorted | grep <" | '{ print $2 }'
+=======
+set
+>>>>>>> 3fd54c32226749fb42f8eb8c1a0463fd5b24afd3
